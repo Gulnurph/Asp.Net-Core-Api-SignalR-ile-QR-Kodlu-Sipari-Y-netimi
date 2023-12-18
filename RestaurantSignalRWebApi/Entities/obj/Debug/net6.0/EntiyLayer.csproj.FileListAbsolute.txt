@@ -1,0 +1,24 @@
+D:\Yeni klasör\SignalR\RestaurantSignalRWebApi\Entities\bin\Debug\net6.0\EntiyLayer.deps.json
+D:\Yeni klasör\SignalR\RestaurantSignalRWebApi\Entities\bin\Debug\net6.0\EntiyLayer.dll
+D:\Yeni klasör\SignalR\RestaurantSignalRWebApi\Entities\bin\Debug\net6.0\EntiyLayer.pdb
+D:\Yeni klasör\SignalR\RestaurantSignalRWebApi\Entities\obj\Debug\net6.0\EntiyLayer.csproj.AssemblyReference.cache
+D:\Yeni klasör\SignalR\RestaurantSignalRWebApi\Entities\obj\Debug\net6.0\EntiyLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yeni klasör\SignalR\RestaurantSignalRWebApi\Entities\obj\Debug\net6.0\EntiyLayer.AssemblyInfoInputs.cache
+D:\Yeni klasör\SignalR\RestaurantSignalRWebApi\Entities\obj\Debug\net6.0\EntiyLayer.AssemblyInfo.cs
+D:\Yeni klasör\SignalR\RestaurantSignalRWebApi\Entities\obj\Debug\net6.0\EntiyLayer.csproj.CoreCompileInputs.cache
+D:\Yeni klasör\SignalR\RestaurantSignalRWebApi\Entities\obj\Debug\net6.0\EntiyLayer.dll
+D:\Yeni klasör\SignalR\RestaurantSignalRWebApi\Entities\obj\Debug\net6.0\refint\EntiyLayer.dll
+D:\Yeni klasör\SignalR\RestaurantSignalRWebApi\Entities\obj\Debug\net6.0\EntiyLayer.pdb
+D:\Yeni klasör\SignalR\RestaurantSignalRWebApi\Entities\obj\Debug\net6.0\ref\EntiyLayer.dll
+C:\Users\Glnr2\OneDrive\Masaüstü\ProjeSon\SignalR\SignalR\RestaurantSignalRWebApi\Entities\bin\Debug\net6.0\EntiyLayer.deps.json
+C:\Users\Glnr2\OneDrive\Masaüstü\ProjeSon\SignalR\SignalR\RestaurantSignalRWebApi\Entities\bin\Debug\net6.0\EntiyLayer.dll
+C:\Users\Glnr2\OneDrive\Masaüstü\ProjeSon\SignalR\SignalR\RestaurantSignalRWebApi\Entities\bin\Debug\net6.0\EntiyLayer.pdb
+C:\Users\Glnr2\OneDrive\Masaüstü\ProjeSon\SignalR\SignalR\RestaurantSignalRWebApi\Entities\obj\Debug\net6.0\EntiyLayer.csproj.AssemblyReference.cache
+C:\Users\Glnr2\OneDrive\Masaüstü\ProjeSon\SignalR\SignalR\RestaurantSignalRWebApi\Entities\obj\Debug\net6.0\EntiyLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Glnr2\OneDrive\Masaüstü\ProjeSon\SignalR\SignalR\RestaurantSignalRWebApi\Entities\obj\Debug\net6.0\EntiyLayer.AssemblyInfoInputs.cache
+C:\Users\Glnr2\OneDrive\Masaüstü\ProjeSon\SignalR\SignalR\RestaurantSignalRWebApi\Entities\obj\Debug\net6.0\EntiyLayer.AssemblyInfo.cs
+C:\Users\Glnr2\OneDrive\Masaüstü\ProjeSon\SignalR\SignalR\RestaurantSignalRWebApi\Entities\obj\Debug\net6.0\EntiyLayer.csproj.CoreCompileInputs.cache
+C:\Users\Glnr2\OneDrive\Masaüstü\ProjeSon\SignalR\SignalR\RestaurantSignalRWebApi\Entities\obj\Debug\net6.0\EntiyLayer.dll
+C:\Users\Glnr2\OneDrive\Masaüstü\ProjeSon\SignalR\SignalR\RestaurantSignalRWebApi\Entities\obj\Debug\net6.0\refint\EntiyLayer.dll
+C:\Users\Glnr2\OneDrive\Masaüstü\ProjeSon\SignalR\SignalR\RestaurantSignalRWebApi\Entities\obj\Debug\net6.0\EntiyLayer.pdb
+C:\Users\Glnr2\OneDrive\Masaüstü\ProjeSon\SignalR\SignalR\RestaurantSignalRWebApi\Entities\obj\Debug\net6.0\ref\EntiyLayer.dll

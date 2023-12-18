@@ -1,0 +1,36 @@
+D:\Yeni klasör\SignalR\RestaurantSignalRWebApi\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+D:\Yeni klasör\SignalR\RestaurantSignalRWebApi\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+D:\Yeni klasör\SignalR\RestaurantSignalRWebApi\DataAccess\bin\Debug\net6.0\DataAccess.dll
+D:\Yeni klasör\SignalR\RestaurantSignalRWebApi\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+D:\Yeni klasör\SignalR\RestaurantSignalRWebApi\DataAccess\bin\Debug\net6.0\EntiyLayer.dll
+D:\Yeni klasör\SignalR\RestaurantSignalRWebApi\DataAccess\bin\Debug\net6.0\EntiyLayer.pdb
+D:\Yeni klasör\SignalR\RestaurantSignalRWebApi\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+D:\Yeni klasör\SignalR\RestaurantSignalRWebApi\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yeni klasör\SignalR\RestaurantSignalRWebApi\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+D:\Yeni klasör\SignalR\RestaurantSignalRWebApi\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+D:\Yeni klasör\SignalR\RestaurantSignalRWebApi\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\Yeni klasör\SignalR\RestaurantSignalRWebApi\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+D:\Yeni klasör\SignalR\RestaurantSignalRWebApi\DataAccess\obj\Debug\net6.0\DataAccess.dll
+D:\Yeni klasör\SignalR\RestaurantSignalRWebApi\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+D:\Yeni klasör\SignalR\RestaurantSignalRWebApi\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+D:\Yeni klasör\SignalR\RestaurantSignalRWebApi\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+D:\Yeni klasör\SignalR\RestaurantSignalRWebApi\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\Glnr2\OneDrive\Masaüstü\ProjeSon\SignalR\SignalR\RestaurantSignalRWebApi\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\Glnr2\OneDrive\Masaüstü\ProjeSon\SignalR\SignalR\RestaurantSignalRWebApi\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\Glnr2\OneDrive\Masaüstü\ProjeSon\SignalR\SignalR\RestaurantSignalRWebApi\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\Glnr2\OneDrive\Masaüstü\ProjeSon\SignalR\SignalR\RestaurantSignalRWebApi\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\Glnr2\OneDrive\Masaüstü\ProjeSon\SignalR\SignalR\RestaurantSignalRWebApi\DataAccess\bin\Debug\net6.0\EntiyLayer.dll
+C:\Users\Glnr2\OneDrive\Masaüstü\ProjeSon\SignalR\SignalR\RestaurantSignalRWebApi\DataAccess\bin\Debug\net6.0\EntiyLayer.pdb
+C:\Users\Glnr2\OneDrive\Masaüstü\ProjeSon\SignalR\SignalR\RestaurantSignalRWebApi\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Glnr2\OneDrive\Masaüstü\ProjeSon\SignalR\SignalR\RestaurantSignalRWebApi\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Glnr2\OneDrive\Masaüstü\ProjeSon\SignalR\SignalR\RestaurantSignalRWebApi\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Glnr2\OneDrive\Masaüstü\ProjeSon\SignalR\SignalR\RestaurantSignalRWebApi\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\Glnr2\OneDrive\Masaüstü\ProjeSon\SignalR\SignalR\RestaurantSignalRWebApi\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Glnr2\OneDrive\Masaüstü\ProjeSon\SignalR\SignalR\RestaurantSignalRWebApi\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\Glnr2\OneDrive\Masaüstü\ProjeSon\SignalR\SignalR\RestaurantSignalRWebApi\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\Glnr2\OneDrive\Masaüstü\ProjeSon\SignalR\SignalR\RestaurantSignalRWebApi\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\Glnr2\OneDrive\Masaüstü\ProjeSon\SignalR\SignalR\RestaurantSignalRWebApi\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\Glnr2\OneDrive\Masaüstü\ProjeSon\SignalR\SignalR\RestaurantSignalRWebApi\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\Glnr2\OneDrive\Masaüstü\ProjeSon\SignalR\SignalR\RestaurantSignalRWebApi\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\Glnr2\OneDrive\Masaüstü\ProjeSon\SignalR\SignalR\RestaurantSignalRWebApi\DataAccess\bin\Debug\net6.0\DtoLayer.dll
+C:\Users\Glnr2\OneDrive\Masaüstü\ProjeSon\SignalR\SignalR\RestaurantSignalRWebApi\DataAccess\bin\Debug\net6.0\DtoLayer.pdb
